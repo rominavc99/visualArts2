@@ -7,7 +7,9 @@ const nextConfig = {
       'cdn.pixabay.com',
       'p16-amd-va.tiktokcdn.com',
       'image.shutterstock.com',
-      'yt3.ggpht.com'
+      'yt3.ggpht.com',
+      'imagenes.t13.cl'
+      
     ],
   },
 };

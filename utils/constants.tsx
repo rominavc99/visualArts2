@@ -37,6 +37,6 @@ export const topics = [
   },
 ];
 
-export const footerList1 = ['About', 'Newsroom', 'Store', 'Contact', 'Carrers', 'ByteDance', 'Creator Directory']
-export const footerList2 = [ 'TikTik for Good','Advertise','Developers','Transparency','TikTik Rewards' ]
-export const footerList3 = [ 'Help', 'Safety', 'Terms', 'Privacy', 'Creator Portal', 'Community Guidelines' ]
+export const footerList1 = ['Sobre nosotros', 'Comunidad', 'Contacto', 'Eventos', 'Directorio', 'Identidad', 'Vision']
+export const footerList2 = ['Sobre nosotros', 'Comunidad', 'Contacto', 'Eventos', 'Directorio', 'Identidad', 'Vision']
+export const footerList3 = ['Sobre nosotros', 'Comunidad', 'Contacto', 'Eventos', 'Directorio', 'Identidad', 'Vision']
